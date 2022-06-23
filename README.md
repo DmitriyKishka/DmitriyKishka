@@ -1,6 +1,6 @@
 - Hi, I’m @DmitriyKishka
 - I’m interested in QA engineering
-- I’m currently learning on course of QA by Vadim Ksendzov
+- I’m currently studying on course of QA by Vadim Ksendzov
 - I`ll save my skills here.
 
 <!---
