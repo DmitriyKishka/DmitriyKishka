@@ -1,8 +1,7 @@
-- wave Hi, I’m @DmitriyKishka
-- eyes I’m interested in QA engineering
-- ok I’m currently learning on course of QA by Vadim Ksendzov
-- computer I`ll save my skills here.
-- 
+- Hi, I’m @DmitriyKishka
+- I’m interested in QA engineering
+- I’m currently learning on course of QA by Vadim Ksendzov
+- I`ll save my skills here.
 
 <!---
 DmitriyKishka/DmitriyKishka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
